@@ -1,0 +1,15 @@
+# 本地密钥与配置
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# 运行时数据
+.tasks/
+.memory/
+.mailboxes/
+.worktrees/
+.transcripts/
+.task_outputs/
+.scheduled_tasks.json
